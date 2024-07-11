@@ -13,4 +13,4 @@
 <p align="left">
 </p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/ElFumadero/ElFumadero/blob/main/snake.svg">
