@@ -2,6 +2,7 @@
 <h3 align="center">👾 Code Master en devenir 👾</h3>
 
 - 🔭  Je travaille actuellement sur  [SakuraSh-ten](https://github.com/ElFumadero/SakuraSh-ten)
+- ⚡  Autre projet AniSphere
 
 <p align="left">
 </p>
