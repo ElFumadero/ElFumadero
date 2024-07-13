@@ -7,7 +7,7 @@
 
 
 - 🔭  Je travaille actuellement sur  [SakuraSh-ten](https://github.com/ElFumadero/SakuraSh-ten)
-- ⚡  Autre projet [AniSphere](https://github.com/ElFumadero/AniSphere), [CraftKitsune](https://github.com/ElFumadero/CraftKitsune)
+- ⚡  Autre projet [AniSphere](https://github.com/ElFumadero/AniSphere), [CraftKitsune](https://github.com/ElFumadero/CraftKitsune), [CubeJ](https://github.com/ElFumadero/CubeJ)
 
 <p align="left">
 </p>
